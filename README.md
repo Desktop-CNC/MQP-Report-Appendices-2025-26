@@ -1,6 +1,6 @@
-
 # MQP-Report-Appendices-2025-26
 Development of Desktop CNC Milling Machine Major Qualifying Project (MQP) report appendices and report-facing materials. 
+
 # A. TorqueScript Tool
 This is a MATLAB script for calculating the torque able to be applied to threading.
 
